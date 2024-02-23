@@ -10,8 +10,8 @@ const openSans = Open_Sans({
 const isDark = true
 
 export const metadata = {
-  title: "Edot",
-  description: "Everything in the .",
+  title: "SCI",
+  description: "Feel the truth !",
 };
 
 export default function RootLayout({

@@ -21,13 +21,13 @@ const Sidebar = (props: Props) => {
           <p className='text-wh-500 text-center text-sm '>asdasd asdsdas asdasdasdas  asdasdasd asdasdasdasd asddas dassdasdasd </p>
         </div> */}
         
-        <div className='flex mb-10 h-[48.5rem] hover:opacity-70` bg-wh-900 justify-around items-center'>
+        <div className='flex mb-10 sm:h-[48.5rem] hover:opacity-70` bg-wh-900 justify-around items-center h-[24rem]'>
          <p className='text-lg text-white'>Plot for advetisement</p>
         </div>
-        <div className='flex mt-10 mb-10 h-[55.5rem] hover:opacity-70` bg-wh-900 justify-around items-center'>
+        <div className='flex mt-10 mb-10 sm:h-[55.5rem] hover:opacity-70` bg-wh-900 justify-around items-center h-[24rem]'>
          <p className='text-lg text-white'>Plot for advetisement</p>
         </div>
-        <div className='flex mt-10 mb-10 h-[63.5rem] hover:opacity-70` bg-wh-900 justify-around items-center'>
+        <div className='flex mt-10 mb-10 sm:h-[63.5rem] hover:opacity-70` bg-wh-900 justify-around items-center h-[24rem]'>
          <p className='text-lg text-white'>Plot for advetisement</p>
         </div>
       </div>
